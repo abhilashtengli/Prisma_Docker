@@ -1,5 +1,5 @@
 # Prisma 
-- [Prisma installation ] (https://projects.100xdevs.com/tracks/gZf9uBBNSbBR7UCqyyqT/prisma-4)
+<a href="https://projects.100xdevs.com/tracks/gZf9uBBNSbBR7UCqyyqT/prisma-4" target="_blank">Prisma installation</a>
 - after adding schema migrate schema (npx prisma migrate dev --name User_schema)
 
 ## To generate prisma client 
